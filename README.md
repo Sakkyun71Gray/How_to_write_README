@@ -41,3 +41,6 @@ java Hello.java
 | ----- | ----- |
 |![サンプル画像](pic/sample.png)|![サンプル画像](pic/Link.png)|
 |![サンプル画像](pic/Link.png)|![サンプル画像](pic/sample.png)|
+
+### その他
+[参考ページ](https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441#:~:text=Rich%20HTML%20in%20GitHub%20README%201%20TL%3BDR.%20Jump,Enter%20foreignObject.%20...%204%20Put%20it%20together.%20)
