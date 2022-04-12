@@ -14,3 +14,6 @@
 **強調1**
  
 __強調2__
+
+### リンク
+この[リンク](https://github.com/Sakkyun71Gray/How_to_write_README)はこのページへのリンクです
