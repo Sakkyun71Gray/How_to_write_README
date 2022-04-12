@@ -22,4 +22,9 @@ __強調2__
 
 
 ### 画像の挿入
-![ サンプル画像](pic/sample.png)
+![サンプル画像](pic/sample.png)
+
+### 複合
+画像にリンクを埋め込む(以下の画像はこのページへのリンク)
+
+[![サンプル画像](pic/Link.png)](https://github.com/Sakkyun71Gray/How_to_write_README)
