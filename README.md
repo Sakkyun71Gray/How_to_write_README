@@ -9,6 +9,39 @@
 | 3     | 04/11 |      |    |
 | 4     | 04/12 |      | 40 |
 
+<!--
+this is a comment.
+コメントはこのように書く
+複数行にも対応可能
+-->
+
+### リスト
+- list1
+- list2
+- list3
+  - list3-1
+  - list3-2
+- list4
+
+### 改行
+これだと
+改行できない
+
+これと<br>
+これは  
+改行できる
+
+    これだと
+改行できない
+    
+    これと<br>
+    これは  
+    改行できる
+
+    説明
+    <br>
+      (半角スペース×2)
+    で改行可能
 
 ### 強調表現
 比較用
@@ -39,7 +72,7 @@ java Hello.java
 ### 複合2
 |  　　 | 　　  |
 | ----- | ----- |
-|![サンプル画像](pic/sample.png)|![サンプル画像](pic/Link.png)|
+|[![サンプル画像](pic/sample.png)](https://github.com/Sakkyun71Gray/How_to_write_README)|![サンプル画像](pic/Link.png)|
 |![サンプル画像](pic/Link.png)|![サンプル画像](pic/sample.png)|
 
 ### その他
