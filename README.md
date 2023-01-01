@@ -1,6 +1,10 @@
 # How_to_write_README
 ## README.mdの書き方とその例に関するリポジトリ
 
+## [参考リンク](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
+<br>
+
 ### 表の書き方 例
 |  番号 | 日付  |  空行 | 値 |
 | ----- | ----- | ---- | -- |
@@ -98,3 +102,46 @@ java Hello.java
 
 ### その他
 [参考ページ](https://omrilotan.medium.com/rich-html-in-github-readme-bfb3de791441#:~:text=Rich%20HTML%20in%20GitHub%20README%201%20TL%3BDR.%20Jump,Enter%20foreignObject.%20...%204%20Put%20it%20together.%20)
+
+### <details><summary>一連の流れ</summary>
+
+```js
+//id名'id'の要素を生成
+const w = document.createElement('id');
+
+//h1ノードを生成
+var h1Node = document.createElement('h1');
+
+//新たにテキストノードを作成する
+var textNode = document.createTextNode('こんにちは');
+
+//h1ノードにテキストノードを格納
+h1Node.appendChild(textNode);
+
+//'id'ノードにh1ノードを格納
+w.appendChild(h1Node);
+
+//htmlドキュメントにwを反映
+document.body.appendChild(w);
+```
+
+</details>
+
+<!-->
+警告等を表す，vscode上でのプレビューに反映されず
+
+:::note info
+インフォメーション
+infoは省略可能です。
+:::
+
+:::note warn
+警告
+○○に注意してください。
+:::
+
+:::note alert
+より強い警告
+○○しないでください。
+:::
+<-->
